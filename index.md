@@ -2,6 +2,7 @@
 @import url("https://fonts.googleapis.com/css?family=Amiri");
 p {
 font-family: 'Amiri', serif;
+font-size: 150%;
 }
 </style>
 <h3 dir='rtl' text-align='right'>

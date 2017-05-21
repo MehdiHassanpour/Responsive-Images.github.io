@@ -2,11 +2,11 @@
 @import url("https://fonts.googleapis.com/css?family=Amiri");
 p {
 font-family: 'Amiri', serif;
-font-size: 150%;
 }
 </style>
 <h3 dir='rtl' text-align='right'>
 ترجمه (خلاصه)
+</h3>
 <p dir='rtl' text-align='right'>
 همانطور که media queries کمک میکنند تا css های مختلفی به یک المان اعمال کنیم، میخواهیم براساس device کاربر، تصاویر متفاوتی نشان دهیم.در اینجا مشکل آن است که تصاویر به طور ذاتی ابعادی دارند و بزرگ و کوچک کردن آنها منجر به شطرنجی شدن تصویر میشود(کیفیت کم میشود). صفحات رتینا و موبایل به پیچیدگی کار می افزاید. برای responsive کردن تصاویر باید سه نکته ی زیر را در نظر بگیریم:<br>
 1- ابعاد device<br>

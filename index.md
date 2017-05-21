@@ -1,6 +1,10 @@
 <style>
 @font-face{
+font-family: 'myFont';
  @import url("https://fonts.googleapis.com/css?family=Amiri");
+}
+body {
+font-family: 'myFont';
 }
 </style>
 <h3 dir='rtl' text-align='right'>

@@ -1,4 +1,7 @@
 <style>
+@font-face{
+ @import url("https://fonts.googleapis.com/css?family=Amiri");
+}
 </style>
 <h3 dir='rtl' text-align='right'>
 ترجمه (خلاصه)
